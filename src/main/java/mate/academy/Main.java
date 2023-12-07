@@ -34,7 +34,7 @@ public class Main {
 
         CinemaHall firstCinemaHall = new CinemaHall();
         firstCinemaHall.setCapacity(100);
-        firstCinemaHall.setDescription("first hall with capacity 100");
+        firstCinemaHall.setDescription("first hall with capacity 101");
 
         CinemaHall secondCinemaHall = new CinemaHall();
         secondCinemaHall.setCapacity(200);
